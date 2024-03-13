@@ -1,0 +1,27 @@
+@import url('https://fonts.cdnfonts.com/css/canela-text-trial');
+
+@font-face {
+  font-family: 'satoshi';
+  src: url('./assets/fonts/Satoshi-Regular.otf') format('truetype');
+  /* You can also define other font properties here, such as font-weight and font-style */
+}
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+/* Define any other styles here */
+h2{
+  font-family: 'satoshi';
+}
+
+
+h1{ font-family: 'Canela Text Trial', sans-serif;
+font-family: 'Canela Trial', sans-serif;
+font-family: 'Canela Condensed Trial', sans-serif;
+font-family: 'Canela Deck Trial', sans-serif; }
+
+
+
+
+                
